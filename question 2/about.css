@@ -1,0 +1,13 @@
+.top nav{
+    display: flex;
+    margin-top: 0px;
+}
+.h1{
+    color: indigo;
+}
+.menu{
+    display: flex;
+    background-position-x: center;
+    background-color: black;
+    position: absolute;
+}
